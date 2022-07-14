@@ -11,8 +11,8 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, vendor/omni/config/gsm.mk)
 
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := sp9820e_1h10
-PRODUCT_NAME := omni_sp9820e_1h10
-PRODUCT_BRAND := QIN
-PRODUCT_MODEL := Qin 1s+
-PRODUCT_MANUFACTURER := duoqin
+PRODUCT_DEVICE := z1y
+PRODUCT_NAME := omni_z1y
+PRODUCT_BRAND := XTC
+PRODUCT_MODEL := XTC Z1y
+PRODUCT_MANUFACTURER := XTC
