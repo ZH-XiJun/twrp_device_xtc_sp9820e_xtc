@@ -1,4 +1,4 @@
-DEVICE_PATH := device/duoqin/sp9820e_1h10
+DEVICE_PATH := device/xtc/z1y
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
@@ -11,7 +11,7 @@ TARGET_CPU_ABI2 := armeabi
 TARGET_CPU_VARIANT := generic
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := sp9820e_1h10
+TARGET_OTA_ASSERT_DEVICE := z1y
 
 # File systems
 BOARD_HAS_LARGE_FILESYSTEM := true
@@ -38,8 +38,8 @@ BOARD_MKBOOTIMG_ARGS += --dt $(TARGET_PREBUILT_DT)
 BOARD_KERNEL_IMAGE_NAME := zImage
 TARGET_KERNEL_ARCH := arm
 TARGET_KERNEL_HEADER_ARCH := arm
-TARGET_KERNEL_SOURCE := kernel/duoqin/sp9820e_1h10
-TARGET_KERNEL_CONFIG := sp9820e_1h10_defconfig
+# TARGET_KERNEL_SOURCE := kernel/xtc/sp9820e_xtc
+# TARGET_KERNEL_CONFIG := sp9820e_xtc_defconfig
 
 # Platform
 TARGET_BOARD_PLATFORM := sp9820e
