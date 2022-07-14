@@ -1,5 +1,5 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_sp9820e_1h10.mk
+    $(LOCAL_DIR)/omni_z1y.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_sp9820e_1h10-eng
+    omni_z1y-eng
