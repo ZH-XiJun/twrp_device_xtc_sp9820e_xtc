@@ -1,1 +1,1 @@
-LOCAL_PATH := device/duoqin/sp9820e_1h10
+LOCAL_PATH := device/xtc/z1y
