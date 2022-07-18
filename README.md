@@ -1,4 +1,4 @@
-English version: 
+English version: https://github.com/ZH-XiJun/twrp_device_xtc_z1y/blob/twrp-4.4/README-EN.md
 
 TWRP DEVICE
 
@@ -7,7 +7,7 @@ FOR XTC Z1y
 为XTC Z1y创建的TWRP设备树
 基于多亲1S设备树修改
 # 设备信息
-|     项目    |                信息                 |
+|     名称    |                信息                 |
 | :---------: | :---------------------------------: |
 |     芯片    |             展讯 SP9820e            |
 |     内存    |                256MB                |
@@ -17,4 +17,4 @@ FOR XTC Z1y
 | Android 版本|             4.4.2 KitKat            |
 |     显示    |               240x240               |
 # 计划
-测试TWRP启动
+启动失败，尝试移植
