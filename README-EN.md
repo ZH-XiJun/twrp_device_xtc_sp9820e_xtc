@@ -15,5 +15,9 @@ TWRP device tree for xtc z1y, based on Qin 1s+ device tree
 |    Network    |              4G Support             |
 |Android Version|             4.4.2 KitKat            |
 |    Display    |               240x240               |
-# TODO
-boot failed, trying port
+# Status
+Compilie normally
+
+Need Java 7 environment, need remove some modules to reduce image size
+
+Still cannot boot!
