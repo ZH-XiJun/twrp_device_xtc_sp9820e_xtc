@@ -1,13 +1,11 @@
-中文：https://github.com/ZH-XiJun/twrp_device_xtc_z1y/blob/twrp-4.4/README.md
+中文：https://github.com/ZH-XiJun/twrp_device_xtc_z1y/
 
-TWRP DEVICE
-
-FOR XTC Z1y
 # Description
-TWRP device tree for xtc z1y, based on Qin 1s+ device tree
+TWRP device tree for xtc z1y (sp9820e_xtc), based on Qin 1s+ device tree
 # Device Info
 |     Name      |                Info                 |
 | :-----------: | :---------------------------------: |
+|   Codename    |              sp9820e_xtc            |
 |     Chip      |          Spreadtrum SP9820e         |
 |    Memory     |                256MB                |
 |    Storage    |              512MB NAND             |
@@ -16,8 +14,6 @@ TWRP device tree for xtc z1y, based on Qin 1s+ device tree
 |Android Version|             4.4.2 KitKat            |
 |    Display    |               240x240               |
 # Status
-Compilie normally
+image too large, cannot flash!
 
-Need Java 7 environment, need remove some modules to reduce image size
-
-Still cannot boot!
+Need Java 7 environment, actions build twrp is unavailable
