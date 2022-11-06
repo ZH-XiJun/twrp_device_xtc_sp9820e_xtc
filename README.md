@@ -17,8 +17,6 @@ FOR XTC Z1y
 | Android 版本|             4.4.2 KitKat            |
 |     显示    |               240x240               |
 # 状态
-编译正常
+镜像过大无法刷入！
 
-需要Java 7环境，需要删除多余模块以缩小镜像大小
-
-仍然无法启动！
+需要Java 7环境以编译，actions build twrp将不可用！
