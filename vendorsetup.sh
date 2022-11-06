@@ -1,1 +1,1 @@
-add_lunch_combo omni_z1y-eng
+add_lunch_combo omni_sp9820e_xtc-eng
