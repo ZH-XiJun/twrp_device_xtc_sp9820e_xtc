@@ -11,7 +11,7 @@ TARGET_CPU_ABI2 := armeabi
 TARGET_CPU_VARIANT := generic
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := z1y
+TARGET_OTA_ASSERT_DEVICE := sp9820e_xtc
 
 # File systems
 BOARD_HAS_LARGE_FILESYSTEM := true
