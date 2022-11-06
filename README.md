@@ -1,8 +1,5 @@
 English version: https://github.com/ZH-XiJun/twrp_device_xtc_z1y/blob/twrp-4.4/README-EN.md
 
-TWRP DEVICE
-
-FOR XTC Z1y
 # 介绍
 为XTC Z1y创建的TWRP设备树
 基于多亲1S设备树修改
