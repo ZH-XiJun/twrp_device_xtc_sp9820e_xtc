@@ -1,4 +1,4 @@
-DEVICE_PATH := device/xtc/z1y
+DEVICE_PATH := device/xtc/sp9820e_xtc
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
